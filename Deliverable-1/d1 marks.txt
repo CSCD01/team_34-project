@@ -1,0 +1,9 @@
+team_34 Deliverable 1 and Interview Marks
+
+Report: 36/40
+  -Overall Architecture: 13/15
+  -Software Process: 13/15
+  -Presentation and Quality of Writing: 10/10
+Comments: Good understanding of architecture, but some UML is too cluttered and hard to follow. Pros of other processes were not considered and XP was not discussed in detail
+
+Interview: 10/10
