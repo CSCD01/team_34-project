@@ -13,4 +13,12 @@ Deliverable 1
 - Software process
 
 Deliverable 2
+- Fixed 2 bugs/issues
+- #484 & #642
+- Acceptance tests
+
+Deliverable 3
+- Plan for D4
+
+Deliverable 4
 - WIP
