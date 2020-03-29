@@ -1,0 +1,13 @@
+team_34 Deliverable 2 and Interview Marks
+
+Report: 97/100
+  -Explanation of Issues: 10/10
+  -Reasoning for chosen Issues: 5/5
+  -Correctness: 25/25
+  -Quality and Documentation: 7/10
+  -Testing: 10/10
+  -Software Process: 25/25
+  -Presentation and Quality of Writing: 15/15
+Comments: No documentation was added for new code
+
+Interview: 10/10
