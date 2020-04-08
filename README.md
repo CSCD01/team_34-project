@@ -21,4 +21,6 @@ Deliverable 3
 - Plan for D4
 
 Deliverable 4
-- WIP
+- Followed the plan in Deliverable 3
+- Documentation for the issues fixed
+- Acceptance Tests & Unit Tests
