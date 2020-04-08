@@ -1,0 +1,11 @@
+team_34 Deliverable 3 and Interview Marks
+
+Report: 35/45
+  -Explanation of Issues: 9/10
+  -Reasoning and Planning for chosen Issue: 10/10
+  -Testing: 5/5
+  -Architecture: 1/10
+  -Presentation and Quality of Writing: 10/10
+Comments: Some issues don't have UML. No discussion of architecture, only UML diagrams.
+
+Interview: 10/10
